@@ -23,14 +23,15 @@ And check off multiple instances
 
 Now to run the program:
 
-Run the ServerApplication by running main() by running main within.  You should see a server is online window popping up.
+Run the ServerApplication by running main() by running main within.  You should see a server is online window popping up.   
 ![image](https://user-images.githubusercontent.com/79169696/162639469-14632368-c9f4-4549-b6d9-c8379c333b82.png)
 
 
-Run the ClientApplication by running main() within. You should see a window asking for your username.  
+Run the ClientApplication by running main() within. You can run multiple instances of ClientApplication.  
+You should see a window asking for your username.  
 ![image](https://user-images.githubusercontent.com/79169696/162639892-3c212a2e-efee-4f2d-bfb1-21edbe2d39fa.png)
 
 Once you have entered the username, you will be taken to the chat room window. In the text field at the bottom, you can enter  
 any messages and press the enter key to send the message. You can view your messages and messages from other clients in the 
-text area above.   
+text area above.
 ![image](https://user-images.githubusercontent.com/79169696/162639848-819e08ee-1583-4c03-a832-42c524711835.png)
