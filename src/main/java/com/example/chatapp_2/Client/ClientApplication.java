@@ -106,6 +106,7 @@ public class ClientApplication extends Application {
         chatListView.setItems(client.chatHistory);
 
         TextField chatTextField = new TextField();
+        chatTextField.setPromptText("Type message, press enter to send");
         chatTextField.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
