@@ -37,3 +37,12 @@ Once you have entered the username, you will be taken to the chat room window. I
 any messages and press the enter key to send the message. You can view your messages and messages from other clients in the 
 text area above.  
 ![image](https://user-images.githubusercontent.com/79169696/162639848-819e08ee-1583-4c03-a832-42c524711835.png)
+
+References:  
+https://docs.oracle.com/javase/7/docs/api/java/net/Socket.html  
+https://www.javatpoint.com/socket-programming  
+https://www.geeksforgeeks.org/socket-programming-in-java/  
+https://www.tutorialspoint.com/java/java_networking.htm  
+https://mkyong.com/java/how-to-get-current-timestamps-in-java/  
+https://docs.oracle.com/javase/7/docs/api/java/net/ServerSocket.html  
+https://www.geeksforgeeks.org/java-net-serversocket-class-in-java/  
