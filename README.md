@@ -33,5 +33,5 @@ You should see a window asking for your username.
 
 Once you have entered the username, you will be taken to the chat room window. In the text field at the bottom, you can enter  
 any messages and press the enter key to send the message. You can view your messages and messages from other clients in the 
-text area above.
+text area above.  
 ![image](https://user-images.githubusercontent.com/79169696/162639848-819e08ee-1583-4c03-a832-42c524711835.png)
