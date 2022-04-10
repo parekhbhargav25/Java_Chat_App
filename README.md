@@ -16,6 +16,7 @@ Navigate over to the ClientApplication configuration.
 Select modify options dropdown in the top right.
 
 And check off multiple instances
+https://cdn.discordapp.com/attachments/892504680637296692/962816323589668904/unknown.png
 
 Now to run the program:
 
