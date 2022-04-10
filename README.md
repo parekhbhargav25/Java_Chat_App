@@ -3,6 +3,8 @@ Brought to you by: Alexander Tran, Bhargav Parekh, and Nicholas Kissoon.
 
 Welcome to Chit Chat! A premium chat service for fellow Ridgeback Students.   
 
+Video URL: https://drive.google.com/file/d/1FWPFozalWGRl7dWD1ZtHJGVwfBUUE7zU/view?usp=sharing  
+
 * Note this works on a Linux/Windows environment running Intellij.
 
 The Following are instructions on how to run the client-server application:
