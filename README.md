@@ -28,5 +28,6 @@ Run the ServerApplication by running main() by running main within.  You should 
 
 
 Run the ClientApplication by running main() within. You should see a window asking for your username.
-![image](https://user-images.githubusercontent.com/90279486/162639546-b0d1e5a4-a1a3-4691-8d5a-b5ddd42eff3d.png)
+![image](https://user-images.githubusercontent.com/90279486/162639804-60084574-ccc7-49c5-8e80-04c26c7cd545.png)
+
 
